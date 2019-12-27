@@ -2,6 +2,10 @@
 
 体験演習，設計製作論１，設計製作論２用の制御ボードを設計・製作する．
 
+### 使用するコンピュータ
+NUCLEO-F303K8
+https://www.st.com/ja/evaluation-tools/nucleo-f303k8.html
+
 ### 仕様
 - 電源電圧　4.8-9.0V
 - モータ x2　（電源Vcc）
