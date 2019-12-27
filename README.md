@@ -9,3 +9,6 @@
 - ADC x5　（電源5V）
 - GPIO x5　（電源5V, 5V tolerant，LED共用）
 - SW x2 
+
+### 設計データ
+https://drive.google.com/file/d/1NRCTlauzaq7IxAPjCq7dmbMJTB5Kz2qd/view?usp=sharing
