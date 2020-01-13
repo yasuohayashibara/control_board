@@ -16,3 +16,6 @@ https://www.st.com/ja/evaluation-tools/nucleo-f303k8.html
 
 ### 設計データ
 https://drive.google.com/file/d/1NRCTlauzaq7IxAPjCq7dmbMJTB5Kz2qd/view?usp=sharing
+
+### 回路図
+![回路図](https://user-images.githubusercontent.com/5755200/72228109-138dd080-35e7-11ea-8035-b7a2e535b4de.png "回路図")
