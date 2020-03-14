@@ -18,7 +18,7 @@ https://www.st.com/ja/evaluation-tools/nucleo-f303k8.html
 https://drive.google.com/drive/folders/1z3KATSUruy6u5POwb1kSAXDd8bHVEIsI?usp=sharing
 
 ### 回路図
-![回路図](https://user-images.githubusercontent.com/5755200/72228109-138dd080-35e7-11ea-8035-b7a2e535b4de.png "回路図")
+![回路図](https://user-images.githubusercontent.com/5755200/76677203-e4a7d100-660e-11ea-8da7-a2048c1f3660.png "回路図")
 
 ### ピンアサイン
 NUCLEO-F303K8  
