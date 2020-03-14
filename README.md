@@ -19,3 +19,6 @@ https://drive.google.com/file/d/1NRCTlauzaq7IxAPjCq7dmbMJTB5Kz2qd/view?usp=shari
 
 ### 回路図
 ![回路図](https://user-images.githubusercontent.com/5755200/72228109-138dd080-35e7-11ea-8035-b7a2e535b4de.png "回路図")
+
+### ピンアサイン
+![ピンアサイン](https://os.mbed.com/media/uploads/bcostm/nucleo_f303k8_2017_10_10.png)
