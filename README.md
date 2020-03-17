@@ -20,6 +20,9 @@ https://drive.google.com/drive/folders/1z3KATSUruy6u5POwb1kSAXDd8bHVEIsI?usp=sha
 ### 回路図
 ![schematic](https://user-images.githubusercontent.com/5755200/76876321-1d68d400-68b5-11ea-8c4b-60103e7d5fce.png)
 
+### PCB (78mm x 60mm)
+![PCB](https://user-images.githubusercontent.com/5755200/76876492-5acd6180-68b5-11ea-95d1-a8769fbf3afa.png)
+
 ### ピンアサイン
 NUCLEO-F303K8  
 https://os.mbed.com/platforms/ST-Nucleo-F303K8/
