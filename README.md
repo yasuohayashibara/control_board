@@ -2,20 +2,21 @@
 
 体験演習，設計製作論１，設計製作論２用の制御ボードを設計・製作する．
 
-### 使用するコンピュータ
-NUCLEO-F303K8  
-https://www.st.com/ja/evaluation-tools/nucleo-f303k8.html
-
 ### 仕様
 - 電源電圧　4.8-9.0V
-- モータ x2　（電源Vcc）
-- サーボモータ x6　（電源Vcc）
-- ADC x5　（電源5V）
-- GPIO x5　（電源5V, 5V tolerant，LED共用）
-- SW x2 
+- LED x 5 (GPIO共用)
+- SW x 2 
+- モータ x 2　（電源Vcc）
+- サーボモータ x 4　（電源Vcc）
+- ADC x 5　（電源5V, 3.3V入力，保護回路追加）
+- GPIO x 5　（電源5V, 5V tolerant，LED共用）
 
 ### 設計データ
 https://drive.google.com/drive/folders/1z3KATSUruy6u5POwb1kSAXDd8bHVEIsI?usp=sharing
+
+### 使用するコンピュータ
+NUCLEO-F303K8  
+https://www.st.com/ja/evaluation-tools/nucleo-f303k8.html
 
 ### 回路図
 ![schematic](https://user-images.githubusercontent.com/5755200/76876321-1d68d400-68b5-11ea-8c4b-60103e7d5fce.png)
