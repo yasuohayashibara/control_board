@@ -30,6 +30,9 @@ https://www.st.com/ja/evaluation-tools/nucleo-f303k8.html
 ### 試作した電子回路 (80mm x 60mm)　第２次試作
 ![試作した電子回路](https://user-images.githubusercontent.com/5755200/79032034-36c41e00-7bde-11ea-87bd-a8abc72cf661.jpg)
 
+### 開発の経緯
+https://github.com/yasuohayashibara/control_board/issues?q=is%3Aissue
+
 ### ピンアサイン
 NUCLEO-F303K8  
 https://os.mbed.com/platforms/ST-Nucleo-F303K8/
