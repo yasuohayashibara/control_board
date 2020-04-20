@@ -2,6 +2,10 @@
 
 体験演習，設計製作論１，設計製作論２用の制御ボードを設計・製作する．
 
+### テキスト（プレビューバージョン）
+
+[200420_2mbed_手引.pdf](https://github.com/yasuohayashibara/control_board/files/4503543/200420_2mbed_.pdf)
+
 ### 仕様
 - 電源電圧　4.8-9.0V
 - LED x 5 (GPIO共用)
