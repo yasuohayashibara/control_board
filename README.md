@@ -4,7 +4,7 @@
 
 ### テキスト（暫定版）
 
-[200420_2mbed_手引.pdf](https://github.com/yasuohayashibara/control_board/files/4520465/200423mbed_.pdf)
+[20042mbed_手引.pdf](https://github.com/yasuohayashibara/control_board/files/4520465/200423mbed_.pdf)
 
 ### 製作動画（参考）
 
