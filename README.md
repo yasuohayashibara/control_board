@@ -6,6 +6,13 @@
 
 [200420_2mbed_手引.pdf](https://github.com/yasuohayashibara/control_board/files/4503543/200420_2mbed_.pdf)
 
+### 製作動画（参考）
+
+- 制御回路の製作  
+https://youtu.be/l_31r6Y3-js
+- Nucleo-F303K8の改良(SB9の取り外し)  
+https://youtu.be/ggU_2VNZ0PI
+
 ### ソフトウェア開発用プロジェクトのテンプレート
 
 https://os.mbed.com/teams/adrobo/code/adrobo_template/
