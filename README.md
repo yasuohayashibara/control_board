@@ -2,9 +2,9 @@
 
 体験演習，設計製作論１，設計製作論２用の制御ボードを設計・製作する．
 
-### テキスト（暫定版）
+### テキスト
 
-[200423mbed_手引.pdf](https://github.com/yasuohayashibara/control_board/files/4520465/200423mbed_.pdf)
+[200711mbed_手引.pdf](https://github.com/yasuohayashibara/control_board/files/4907580/200711mbed_.pdf)
 
 ### 製作動画（参考）
 
@@ -15,6 +15,10 @@ https://youtu.be/ggU_2VNZ0PI
 
 ### ソフトウェア開発用プロジェクトのテンプレート
 
+- オフライン(KEIL)  
+[adrobo_template_uvision6_nucleo_f303k8.zip](https://github.com/yasuohayashibara/control_board/files/4907584/adrobo_template_uvision6_nucleo_f303k8.zip)
+
+- オンライン  
 https://os.mbed.com/teams/adrobo/code/adrobo_template/
 
 ### 仕様
