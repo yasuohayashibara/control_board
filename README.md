@@ -4,7 +4,7 @@
 
 ### テキスト
 
-[200711mbed_手引.pdf](https://github.com/yasuohayashibara/control_board/files/4907580/200711mbed_.pdf)
+[200904mbed_手引.pdf](https://github.com/yasuohayashibara/control_board/files/5172184/200904mbed_.pdf)
 
 ### 製作動画（参考）
 
