@@ -40,10 +40,10 @@ NUCLEO-F303K8
 https://www.st.com/ja/evaluation-tools/nucleo-f303k8.html
 
 ### 回路図
-![schematic](https://user-images.githubusercontent.com/5755200/76876321-1d68d400-68b5-11ea-8c4b-60103e7d5fce.png)
+![schematic](https://user-images.githubusercontent.com/5755200/194701479-bb780189-8062-4626-96f1-0d7915ba37e9.png)
 
-### PCB (80mm x 60mm)　第２次試作（2020/03/30修正）
-![PCB](https://user-images.githubusercontent.com/5755200/77907740-24d0aa00-72c5-11ea-968d-9c0dcea1982a.png)
+### PCB (80mm x 60mm)　第３次試作（2021/08/19修正）
+![PCB](https://user-images.githubusercontent.com/5755200/194701648-10f5dc0f-e766-4d5d-91a5-422a60af79fd.png)
 
 ### 試作した基板 (80mm x 60mm)　第２次試作
 ![試作した基板](https://user-images.githubusercontent.com/5755200/78966498-04151980-7b3b-11ea-8ee4-95559a45fb45.jpg)
