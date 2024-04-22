@@ -4,7 +4,7 @@
 
 ### テキスト
 
-[230424mbed_手引.pdf](https://github.com/yasuohayashibara/control_board/files/11315295/230424mbed_.pdf)
+[240422_mbed_手引.pdf](https://github.com/yasuohayashibara/control_board/files/15056090/240422_mbed_.pdf)
 
 ### 製作動画（参考）
 
@@ -39,11 +39,11 @@ https://drive.google.com/drive/folders/1z3KATSUruy6u5POwb1kSAXDd8bHVEIsI?usp=sha
 NUCLEO-F303K8  
 https://www.st.com/ja/evaluation-tools/nucleo-f303k8.html
 
-### 回路図
-![schematic](https://user-images.githubusercontent.com/5755200/194701479-bb780189-8062-4626-96f1-0d7915ba37e9.png)
+### 回路図　2024年度版(24/04/22修正)
+![schematic](https://github.com/yasuohayashibara/control_board/assets/5755200/444a64f6-9bbe-4630-acca-5f8785c4ac26)
 
-### PCB (80mm x 60mm)　第３次試作（2021/08/19修正）
-![PCB](https://user-images.githubusercontent.com/5755200/194701648-10f5dc0f-e766-4d5d-91a5-422a60af79fd.png)
+### PCB (80mm x 60mm)　2024年度版(24/04/22修正）
+![board](https://github.com/yasuohayashibara/control_board/assets/5755200/bb7fa9a7-ca51-4a74-961c-f0a691e511e5)
 
 ### 試作した基板 (80mm x 60mm)　第２次試作
 ![試作した基板](https://user-images.githubusercontent.com/5755200/78966498-04151980-7b3b-11ea-8ee4-95559a45fb45.jpg)
