@@ -11,10 +11,6 @@
 - 制御回路の製作  
 https://youtu.be/l_31r6Y3-js
 
-- Nucleo-F303K8の改良(SB9の取り外し)  
- 【2022年度版はSB9を取り外さなくて構いません．】  
-https://youtu.be/ggU_2VNZ0PI
-
 ### ソフトウェア開発用プロジェクトのテンプレート
 
 - オフライン(KEIL)  
