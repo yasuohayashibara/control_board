@@ -41,10 +41,12 @@ https://www.st.com/ja/evaluation-tools/nucleo-f303k8.html
 ### PCB (80mm x 60mm)　2024年度版(24/04/22修正）
 ![board](https://github.com/yasuohayashibara/control_board/assets/5755200/bb7fa9a7-ca51-4a74-961c-f0a691e511e5)
 
-### 試作した基板 (80mm x 60mm)　第２次試作
-![試作した基板](https://user-images.githubusercontent.com/5755200/78966498-04151980-7b3b-11ea-8ee4-95559a45fb45.jpg)
+### 試作した基板 (80mm x 60mm)　第3次試作(24/10/14）
+![試作した基板(表)](https://github.com/user-attachments/assets/3475db88-9447-4215-8a01-c7fcf13aeecc)
 
-### 試作した電子回路 (80mm x 60mm)　第２次試作
+![施策した基盤（裏）](https://github.com/user-attachments/assets/2a679743-69d0-4a7c-a46b-5271abb57719)
+
+### 試作した電子回路 (80mm x 60mm)　第２次試作（一つ前のバージョン）
 ![試作した電子回路](https://user-images.githubusercontent.com/5755200/79032034-36c41e00-7bde-11ea-87bd-a8abc72cf661.jpg)
 
 ### 開発の経緯
