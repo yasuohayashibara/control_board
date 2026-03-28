@@ -16,7 +16,7 @@ https://youtu.be/l_31r6Y3-js
 - オフライン(KEIL)  
 [adrobo_template_uvision6_nucleo_f303k8.zip](https://github.com/yasuohayashibara/control_board/files/4907584/adrobo_template_uvision6_nucleo_f303k8.zip)
 
-- オンライン  
+- オンライン(2026年6月提供終了)  
 https://os.mbed.com/teams/adrobo/code/adrobo_template/
 
 ### 仕様
